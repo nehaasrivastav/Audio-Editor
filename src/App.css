@@ -1,0 +1,33 @@
+.App-header {
+  background-color: #282c34;
+}
+
+.box {
+  display: flex;
+}
+
+.box button {
+  background-color: rgb(117, 117, 117);
+  color: black;
+  border: none;
+  margin: 0.9rem;
+  cursor: pointer;
+  height: 2rem;
+  width: 2rem;
+}
+
+.box button:hover {
+  color: rgba(220, 222, 219, 0.986);
+}
+
+#Volumeslider {
+  margin-left: -0.6rem;
+  margin-right: 2rem;
+  cursor: pointer;
+}
+
+#UploadButton {
+  width: 4rem;
+  margin-top: 1rem;
+  margin-left: 90rem;
+}
